@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WildTooth
 - 👀 I’m interested in Spigot Plugin Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C++
 
 <!---
 WildTooth/WildTooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
