@@ -14,7 +14,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=WildTooth&theme=monokai&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildTooth&theme=monokai&show_icons=true)
 
 ### :trophy: My Profile Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=WildTooth&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
