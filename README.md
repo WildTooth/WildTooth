@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @WildTooth
+# 👋 Hi, I’m @WildTooth ![Profile views](https://gpvc.arturio.dev/WildTooth)
+
 - 👀 I’m interested in Spigot Plugin Coding
 
 ### ❗ Currently invested in :
