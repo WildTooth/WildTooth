@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @WildTooth ![Profile views](https://gpvc.arturio.dev/WildTooth)
 
 - 👀 I’m interested in Spigot Plugin Coding
+- 🚀 Looking at stars!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
