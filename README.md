@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @WildTooth ![Profile views](https://gpvc.arturio.dev/WildTooth)
 
 - 🚀 Looking at stars!
-- rolf
+- :rolf:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
