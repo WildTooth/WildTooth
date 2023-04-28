@@ -9,11 +9,9 @@
 
 <details>
   <summary>:zap: My Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WildTooth&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=WildTooth&theme=tokyonight&hide_border=true" />
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=WildTooth&theme=monokai&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=WildTooth&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
