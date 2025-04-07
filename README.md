@@ -10,3 +10,7 @@
 > Hvis du har interesse for et af mine projekter og du vil skrive om det kan du kontakte mig på min discord ``@vildtand``.
 >
 > Ønsker du specifikt at kontakte mig om [Freakyville+](https://github.com/FreakyVille-Trademarket/FreakyVillePlus)? Så kan du tilslutte dig min [discord server](https://discord.gg/ev4FTktVPs), hvor alt relevant information står, samt du kan finde mig den vej i gennem.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WildTooth/WildTooth/refs/heads/soccer/assets/favorite_team.gif" />
+</p>
